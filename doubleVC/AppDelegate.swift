@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  doubleVC
 //
-//  Created by 水梨弘翔 on 2021/07/08.
+//  Created by mizoz on 2021/07/08.
 //
 
 import UIKit
